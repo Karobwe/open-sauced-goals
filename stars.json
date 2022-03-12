@@ -1,43 +1,43 @@
 [
   {
     "full_name": "GitSquared/edex-ui",
-    "stargazers_count": 35044,
+    "stargazers_count": 35049,
     "open_issues_count": 6,
-    "forks_count": 1993
+    "forks_count": 1996
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 102939,
-    "open_issues_count": 207,
-    "forks_count": 11089
+    "stargazers_count": 103781,
+    "open_issues_count": 209,
+    "forks_count": 11111
   },
   {
     "full_name": "Toinane/colorpicker",
-    "stargazers_count": 1016,
+    "stargazers_count": 1015,
     "open_issues_count": 46,
     "forks_count": 80
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 70115,
-    "open_issues_count": 2353,
-    "forks_count": 3972
+    "stargazers_count": 70218,
+    "open_issues_count": 2354,
+    "forks_count": 3977
   },
   {
     "full_name": "BulmaTemplates/bulma-templates",
-    "stargazers_count": 2954,
+    "stargazers_count": 2956,
     "open_issues_count": 1,
-    "forks_count": 1167
+    "forks_count": 1168
   },
   {
     "full_name": "twbs/bootstrap-npm-starter",
-    "stargazers_count": 898,
+    "stargazers_count": 900,
     "open_issues_count": 23,
-    "forks_count": 357
+    "forks_count": 358
   },
   {
     "full_name": "elibroftw/music-caster",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -61,13 +61,13 @@
   },
   {
     "full_name": "browserslist/browserslist",
-    "stargazers_count": 10358,
+    "stargazers_count": 10368,
     "open_issues_count": 34,
-    "forks_count": 582
+    "forks_count": 583
   },
   {
     "full_name": "lrsjng/pagemap",
-    "stargazers_count": 1157,
+    "stargazers_count": 1158,
     "open_issues_count": 6,
     "forks_count": 52
   },
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "lrsjng/h5ai",
-    "stargazers_count": 4749,
+    "stargazers_count": 4752,
     "open_issues_count": 208,
-    "forks_count": 556
+    "forks_count": 557
   },
   {
     "full_name": "lrsjng/kjua",
     "stargazers_count": 227,
     "open_issues_count": 5,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "abodmicheal/react-js-stickynav",
-    "stargazers_count": 25,
+    "stargazers_count": 24,
     "open_issues_count": 1,
-    "forks_count": 5
+    "forks_count": 4
   },
   {
     "full_name": "iskurbanov/shopify-next.js-tailwind",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "Modernizr/Modernizr",
-    "stargazers_count": 25162,
-    "open_issues_count": 184,
+    "stargazers_count": 25163,
+    "open_issues_count": 185,
     "forks_count": 3041
   },
   {
     "full_name": "GoogleChromeLabs/picture-in-picture-chrome-extension",
-    "stargazers_count": 512,
-    "open_issues_count": 46,
-    "forks_count": 102
+    "stargazers_count": 513,
+    "open_issues_count": 47,
+    "forks_count": 103
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 14709,
+    "stargazers_count": 14746,
     "open_issues_count": 56,
-    "forks_count": 2146
+    "forks_count": 2149
   },
   {
     "full_name": "jsdelivr/FontFamous",
@@ -133,37 +133,37 @@
   },
   {
     "full_name": "windicss/windicss",
-    "stargazers_count": 4679,
-    "open_issues_count": 153,
+    "stargazers_count": 4704,
+    "open_issues_count": 154,
     "forks_count": 123
   },
   {
     "full_name": "antfu/vitesse-webext",
-    "stargazers_count": 1158,
+    "stargazers_count": 1164,
     "open_issues_count": 8,
     "forks_count": 63
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 21089,
-    "open_issues_count": 1891,
-    "forks_count": 744
+    "stargazers_count": 21144,
+    "open_issues_count": 1924,
+    "forks_count": 748
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 109739,
+    "stargazers_count": 109893,
     "open_issues_count": 13,
-    "forks_count": 15108
+    "forks_count": 15120
   },
   {
     "full_name": "bchiang7/v4",
-    "stargazers_count": 4504,
+    "stargazers_count": 4517,
     "open_issues_count": 17,
-    "forks_count": 2065
+    "forks_count": 2069
   },
   {
     "full_name": "Kamona-WD/kwd-dashboard",
-    "stargazers_count": 370,
+    "stargazers_count": 373,
     "open_issues_count": 1,
     "forks_count": 106
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "liip/LiipImagineBundle",
-    "stargazers_count": 1533,
-    "open_issues_count": 34,
+    "stargazers_count": 1534,
+    "open_issues_count": 35,
     "forks_count": 373
   }
 ]
